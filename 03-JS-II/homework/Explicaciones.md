@@ -1,31 +1,37 @@
 # Explicaciones de los Conceptos Vistos
 
-## Variables
+- [ ] **Variables**
 
-Son espacios donde se pueden guardar diferentes datos o información que luego pueden ser utilizados para realizar una operación matemática o para mostrarlo al usuario.
+  Son espacios donde se pueden guardar diferentes datos o información que luego pueden ser utilizados para realizar una operación matemática o para mostrarlo al usuario.
 
-Estos datos o información se guarda en la memoria de la computadora , estos espacios de memoria donde se guardan se llaman celdas.
+  Estos datos o información se guarda en la memoria de la computadora , estos espacios de memoria donde se guardan se llaman celdas.
 
-## Strings
+![enter image description here](https://wilsonquispe.vercel.app/assets/blog/variables/variablesVisualmente.png)
 
-Son letras, números o caracteres especiales cómo el **(@)** que pueden formar una palabra o cualquier texto incluído el espacio.
+- [ ] **Strings**
 
-Con los strings se pueden hacer operaciones, cómo juntar dos palabras o agregar datos guardados en Variables entre medio y luego agregarle otra palabra, con ellos no se pueden hacer operaciones matemátiacas.
+  Son letras, números o caracteres especiales cómo el **(@)** que pueden formar una palabra o cualquier texto incluído el espacio.
 
-## Funciones
+  Con los strings se pueden hacer operaciones, cómo juntar dos palabras o agregar datos guardados en Variables entre medio y luego agregarle otra palabra, con ellos no se pueden hacer operaciones matemátiacas.
 
-Son bloques de código o instrucciones que tienen una funcionalidad determinada, estas permiten que no se repita código a lo largo del algoritmo que se está creando.
+- [ ] **Funciones**
 
-Una función puede ser llamada las veces que sean necesarias y simpre va a hacer las mismas acciones que le dijimos que haga.
+  Son bloques de código o instrucciones que tienen una funcionalidad determinada, estas permiten que no se repita código a lo largo del algoritmo que se está creando.
 
-Las funciones pueden recibir algunos datos (numeros, palabras etc) con los que la funcion puede trabajar, modificandolos o haciendo operaciones con ellos.
+  Una función puede ser llamada las veces que sean necesarias y simpre va a hacer las mismas acciones que le dijimos que haga.
 
-Todas las funciones tienen la funcionalidad de retornar un valor, el cual puede ser almacenado o utlizado en el algoritmo para alguna funcionalidad en especial.
+  Las funciones pueden recibir algunos datos (numeros, palabras etc) con los que la funcion puede trabajar, modificandolos o haciendo operaciones con ellos.
 
-El return significa retornar al programa principal o salirse de la función, a penas se llega al return se ejecuta y sale de la función.
+  Todas las funciones tienen la funcionalidad de retornar un valor, el cual puede ser almacenado o utlizado en el algoritmo para alguna funcionalidad en especial.
 
-## Valores Booleanos
+  El return significa retornar al programa principal o salirse de la función, a penas se llega al return se ejecuta y sale de la función.
 
-Son el verdadero o falso que todos conocemos, sólo pueden tener dos estados verdadero(1) o falso (1), esto nos sirve para que el programa haga o ejecute determinadas instrucciones dependiendo del valor booleano que se obtenga.
+![enter image description here](http://ferestrepoca.github.io/paradigmas-de-programacion/progfun/funcional_teoria/images/function.jpg)
 
-Si es verdadero se hace determinadas cosas y si no esta otra.
+- [ ] **Valores Booleanos**
+
+  Son el verdadero o falso que todos conocemos, sólo pueden tener dos estados verdadero(1) o falso (1), esto nos sirve para que el programa haga o ejecute determinadas instrucciones dependiendo del valor booleano que se obtenga.
+
+  Si es verdadero se hace determinadas cosas y si no esta otra.
+
+![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS517XKS4PIqbUogm8TeouII6ANz07nYVfbNw&usqp=CAU)
