@@ -30,7 +30,7 @@
 
 - [ ] **Valores Booleanos**
 
-  Son el verdadero o falso que todos conocemos, sólo pueden tener dos estados verdadero(1) o falso (1), esto nos sirve para que el programa haga o ejecute determinadas instrucciones dependiendo del valor booleano que se obtenga.
+  Son el verdadero o falso que todos conocemos, sólo pueden tener dos estados verdadero(1) o falso (0), esto nos sirve para que el programa haga o ejecute determinadas instrucciones dependiendo del valor de verdad que se obtenga.
 
   Si es verdadero se hace determinadas cosas y si no esta otra.
 
